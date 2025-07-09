@@ -25,7 +25,7 @@ RecordSteps is a Windows desktop app that:
 
 ## 💬 Support
 
-- For help or questions, visit [https://recordsteps.com/](https://recordsteps.com/), open an issue in this repo or contact me on X (https://x.com/jon_urce).
+- For help or questions, open an issue in this repo or contact me on X (https://x.com/jon_urce).
 
 ---
 
