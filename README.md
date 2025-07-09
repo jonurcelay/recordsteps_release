@@ -14,16 +14,9 @@ RecordSteps is a Windows desktop app that:
 
 ---
 
-## 🖥️ Download
-
-Visit my website: [https://recordsteps.com/](https://recordsteps.com/)
-
-
----
-
 ## 💡 How to Use
 
-1. **Download and install** the app from the link above.
+1. **Download and install** the app from the website [https://recordsteps.com/](https://recordsteps.com/).
 2. **Sign in** (create a free account in the app).
 3. **Start recording** your process.
 4. **Finish and export** your step-by-step guide as a Word document.
